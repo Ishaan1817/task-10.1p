@@ -1,0 +1,13 @@
+.article-card
+{
+    display: flex;
+    flex-direction: row;
+    padding: 1px;
+}
+
+.article-card p
+{
+    margin: 5px;
+    padding-left: 5px;
+    color: rgb(165, 64, 64);
+}

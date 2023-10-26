@@ -1,0 +1,14 @@
+/* Context from Code Snippet src/App.css*/
+.header-container
+{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    align-content: flex-start;
+    justify-content: space-between;
+}
+
+.header-container .button
+{
+   justify-content: right;
+}
